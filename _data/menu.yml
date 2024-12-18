@@ -10,6 +10,8 @@ entries:
         url: uses/
       - title: /ideas
         url: ideas/
+      - title: /writing
+        url: writing/
 
       - title: all posts
         post_list:
