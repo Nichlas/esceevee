@@ -4,6 +4,9 @@
 entries:
   - title: pages
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
+      - title: /about
         url: about/
-      - title: github repo
+      - title: /uses
+        url: uses/
+      - title: /ideas
+        url: ideas/
