@@ -14,18 +14,17 @@ The current page is updated on 2024-12-19 10:07 AM
 
 I am working ~8 hours a day, so having a great setup is important to me.
 
-#### Laptop
+- Laptop
+  - Model: [HP ZBook Fury 15 G7 Mobile Workstation](https://support.hp.com/dk-da/product/setup-user-guides/hp-zbook-fury-15-g7-mobile-workstation/model/2100018597)
+  - CPU: Intel(R) Core(TM) i7-10850H CPU @ 2.70GHz
+  - RAM: 16 GB
+  - OS: Windows 11 Enterprise
 
-- Model: [HP ZBook Fury 15 G7 Mobile Workstation](https://support.hp.com/dk-da/product/setup-user-guides/hp-zbook-fury-15-g7-mobile-workstation/model/2100018597)
-- CPU: Intel(R) Core(TM) i7-10850H CPU @ 2.70GHz
-- RAM: 16 GB
-- OS: Windows 11 Enterprise
+- Docking Station
+  - [HP USB-C-dockingstation G5](https://www.hp.com/dk-da/products/accessories/product-details/2100627192)
 
-#### Docking Station
-- [HP USB-C-dockingstation G5](https://www.hp.com/dk-da/products/accessories/product-details/2100627192)
-
-#### Screens
-- [HP EliteDisplay E24 G4 Monitor](https://www.hp.com/dk-da/products/monitors/product-details/34514026) x 2
+- Screen(s)
+   - [HP EliteDisplay E24 G4 Monitor](https://www.hp.com/dk-da/products/monitors/product-details/34514026) x 2
 
 ### Software
 
@@ -34,3 +33,6 @@ I am working ~8 hours a day, so having a great setup is important to me.
 - [Logseq](https://logseq.com/) Privacy First, Open Source Knowledge Base
 - [PyCharm](https://www.jetbrains.com/pycharm/): for Python code
 - [VSCode](https://code.visualstudio.com/): Mostly for writing [Typst](https://typst.app/) documents. Using the extensions `Tinymist Typst`, `Typst Companion` and `vscode-pdf`.
+- [Microsoft PowerToys](https://learn.microsoft.com/en-us/windows/powertoys): includes a number of great tweaks for Windows 11, but the two I use the most are:
+  - PowerToys Run: A quicklauncher as seen in other great operating systems. Much quicker than the default Windows start menu
+  - 
