@@ -4,6 +4,6 @@ title: Ideas
 permalink: /ideas/
 ---
 
-Inspired by "100 ideas in computing" this is where I jot down my ideas. Some ideas are more fleshed out and will get their own pages.
+Inspired by "[Ideas for Computing](https://news.ycombinator.com/item?id=6078335)" this is where I jot down my ideas. Some ideas are more fleshed out and will get their own pages.
 
-- PDF like format for table data, that can be supported by version conrol.
+1. PDF like format for table data, that can be supported by version conrol. (or Version control for Excel)

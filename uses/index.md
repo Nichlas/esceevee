@@ -24,7 +24,14 @@ I am working ~8 hours a day, so having a great setup is important to me.
   - [HP USB-C-dockingstation G5](https://www.hp.com/dk-da/products/accessories/product-details/2100627192)
 
 - Screen(s)
-   - [HP EliteDisplay E24 G4 Monitor](https://www.hp.com/dk-da/products/monitors/product-details/34514026) x 2
+  - [HP EliteDisplay E24 G4 Monitor](https://www.hp.com/dk-da/products/monitors/product-details/34514026) x 2
+
+- Headset
+  - [Jabra Evolve 40 MS Stereo](https://www.jabra.com/supportpages/jabra-evolve-40#/#6399-823-109): I always prefer noise-cancelling wired headsets for work. For this headset I am on my second controller, as the first one broke. The second one isn't too great either, so this might be my last Jabra headset.
+
+- Smartphone
+  - [iPhone 15 Pro Max](https://support.apple.com/en-us/111828): In the past I always requested an Android phone, usually the newest version of Samsung Galaxy. But in recent years it has been a lot harder to be an Android user at my place of work because IT support for it is way worse than iPhone support. So this time I went with an iPhone.
+  
 
 ### Software
 
