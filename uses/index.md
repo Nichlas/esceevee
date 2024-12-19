@@ -69,3 +69,21 @@ This is what we also call our **stack** at work.
 - [SAP SuccessFactors](https://www.sap.com/products/hcm.html): Human Capital Management. We use this to manage our employee data and processes. And as HRIS Data is my main area this is my most important tool.
 - [Azure Databricks](https://azure.microsoft.com/en-us/products/databricks/): Automated data engineering and delivery.
 - [ServiceNow](https://www.servicenow.com/): Service Delivery and Workflow manager. One of the better tools. As I don't work in support I mostly use the knowledge management part.
+
+## At Home
+
+### Hardware
+
+- Gaming PC
+  - Custom Built
+  - CPU: Ryzen 7800X3D
+  - RAM: 64 GB
+
+- TrueNAS Server
+  - Custom Built
+  - CPU: AMD Ryzen 3 3200G (4 Core)
+  - Motherboard: ASRock B550M PRO4
+  - PSU: FSP Dagger PRO 650W
+  - Chassis: Jonsbo N4 White
+  - System Drive: 256GB NVMe
+  - Data Drives: Seagate IronWolf Pro 18TB x 6
