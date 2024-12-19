@@ -77,7 +77,8 @@ This is what we also call our **stack** at work.
 - Gaming PC
   - Custom Built
   - CPU: Ryzen 7800X3D
-  - RAM: 64 GB
+  - RAM: 64 GB, Kingston Fury Beast RGB DDR5-5200
+  - GPU: XPX Radeon RX 6950 XT Speedster MERC 319 16GB
 
 - TrueNAS Server
   - Custom Built
@@ -87,3 +88,28 @@ This is what we also call our **stack** at work.
   - Chassis: Jonsbo N4 White
   - System Drive: 256GB NVMe
   - Data Drives: Seagate IronWolf Pro 18TB x 6
+
+- Laptop
+  - Model: Lenovo ThinkPad T490s
+  - RAM: 8 GB
+
+- Printer
+  - Model: Lexmark B223dw Laser
+### Software
+
+- Gaming PC
+  - Windows 11
+
+- TrueNAS Server
+  - OS: TrueNAS Scale
+  - Tailscale
+  - Syncthing
+  - piHole
+  - immich
+  - Home Assistant
+  - FreshRSS
+  - Arr Stack
+  - Handbrake
+  - Navidrone
+
+
