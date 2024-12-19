@@ -91,7 +91,9 @@ This is what we also call our **stack** at work.
 
 - Laptop
   - Model: Lenovo ThinkPad T490s
+  - CPU: Intel i5-8265U (8) @ 3.900GH
   - RAM: 8 GB
+  - System Drive: Lexar SSD NM790 4TB
 
 - Printer
   - Model: Lexmark B223dw Laser
