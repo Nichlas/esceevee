@@ -95,6 +95,7 @@ This is what we also call our **stack** at work.
 
 - Printer
   - Model: Lexmark B223dw Laser
+
 ### Software
 
 - Gaming PC
