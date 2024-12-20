@@ -102,6 +102,7 @@ This is what we also call our **stack** at work.
 
 - Gaming PC
   - Windows 11
+  - Games!
 
 - TrueNAS Server
   - OS: TrueNAS Scale
