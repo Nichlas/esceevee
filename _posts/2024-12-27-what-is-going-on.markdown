@@ -5,7 +5,7 @@ date:   2024-12-27 19:02:00 +0100
 categories: tv
 ---
 
-I have just seen the last episode of "Families like ours", wherein the country of Denmark is being closed and everyone has to leave.
+I have just seen the last episode of "[Families like ours](https://thetvdb.com/series/familier-som-vores)", wherein the country of Denmark is being closed and everyone has to leave.
 
 I did have a lot of thoughts watching through the episodes, the most dominant ones being:
  - It focused a lot more on individuals than I would like. (This is typical for Danish TV)
