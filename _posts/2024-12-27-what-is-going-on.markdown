@@ -18,3 +18,4 @@ I did have a lot of thoughts watching through the episodes, the most dominant on
 
 It's insterresting, because a situation like this would definitely open up many more story options, so focusing a whole season of a series on just a few characters seems a bit of a waste.
 
+Now, don't get me wrong. It was still a very good watch, and I'm certain that all of my points was decisions made to move the drama in a direction the Director inteded. But that just wasn't how I would have made it.
