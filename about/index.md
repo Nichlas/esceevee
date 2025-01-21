@@ -12,5 +12,5 @@ Other places you can find me:
 - Mastodon: <a rel="me" href="https://fosstodon.org/@nichlas">@nichlas@fosstondon.org</a>
 - Test
 
-![Image](/assets/images/hai-nguyen.jpg)
+![Image](/esceevee/assets/images/hai-nguyen.jpg)
 
