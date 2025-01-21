@@ -11,5 +11,5 @@ I'm told that I am gentle, sensible and patient, and hopefully this also comes a
 Other places you can find me:
 - Mastodon: <a rel="me" href="https://fosstodon.org/@nichlas">@nichlas@fosstondon.org</a>
 
-![Image](/assets/hai-nguyen.jpg)
+![Image](/assets/images/hai-nguyen.jpg)
 
