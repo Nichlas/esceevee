@@ -24,7 +24,7 @@ I am working ~8 hours a day, so having a great setup is important to me.
   - [HP USB-C-dockingstation G5](https://www.hp.com/dk-da/products/accessories/product-details/2100627192)
 
 - Screen(s)
-  - [HP EliteDisplay E24 G4 Monitor](https://www.hp.com/dk-da/products/monitors/product-details/34514026) x 2
+  - [HP Series 5 Pro 34" Conferencing Monitor](https://support.hp.com/us-en/product/details/hp-series-5-pro-34-inch-wqhd-usb-c-conferencing-monitor-534pm/2102107546)
 
 - Headset
   - [Jabra Evolve 40 MS Stereo](https://www.jabra.com/supportpages/jabra-evolve-40#/#6399-823-109): I always prefer noise-cancelling wired headsets for work. For this headset I am on my second controller, as the first one broke. The second one isn't too great either, so this might be my last Jabra headset.
@@ -60,7 +60,7 @@ I am working ~8 hours a day, so having a great setup is important to me.
 - [VLC Media Player](https://www.videolan.org/vlc/): My goto player for videos.
 - [FileZilla](https://filezilla-project.org/): For countless years, FileZilla has been a joy to use. It does what I need.
 - [PureRef](https://www.pureref.com/): "Tool to organize the creative process". I know, this explanation makes very little sense, and me using it for work is also hard to understand. But having a board where I can put op any number of pictures as inspiration helps me a lot when I work on planning our new Dashboards. Go search for it on youtube to see if you can find a use for it.
-
+- [Typst](https://typst.app) Working on switching from LateX to Typst. Using command line version together with VScode
 #### Online Software/Services
 
 This is what we also call our **stack** at work.
@@ -109,11 +109,7 @@ This is what we also call our **stack** at work.
   - Tailscale
   - Syncthing
   - piHole
-  - immich
-  - Home Assistant
-  - FreshRSS
   - Arr Stack
   - Handbrake
-  - Navidrone
 
 
