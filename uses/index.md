@@ -12,7 +12,7 @@ The current page is updated on 2024-12-19 10:07 AM
 
 ### Hardware
 
-I am working ~8 hours a day, so having a great setup is important to me.
+I am working ~8 hours a day, so having a solid setup is important to me.
 
 - Laptop
   - Model: [HP ZBook Fury 15 G7 Mobile Workstation](https://support.hp.com/dk-da/product/setup-user-guides/hp-zbook-fury-15-g7-mobile-workstation/model/2100018597)
