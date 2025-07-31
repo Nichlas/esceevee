@@ -6,7 +6,7 @@ permalink: /ideas/
 
 Inspired by "[Ideas for Computing](https://news.ycombinator.com/item?id=6078335)" this is where I jot down my ideas. Some ideas are more fleshed out and will get their own pages.
 
-1. Family Foto Host/Self-Host
+1. Family Photo Host/Self-Host
   - Simple control of users
   - Easy user creation
   - Simple control of groups/families
