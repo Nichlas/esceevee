@@ -61,6 +61,7 @@ I am working ~8 hours a day, so having a solid setup is important to me.
 - [FileZilla](https://filezilla-project.org/): For countless years, FileZilla has been a joy to use. It does what I need.
 - [PureRef](https://www.pureref.com/): "Tool to organize the creative process". I know, this explanation makes very little sense, and me using it for work is also hard to understand. But having a board where I can put op any number of pictures as inspiration helps me a lot when I work on planning our new Dashboards. Go search for it on youtube to see if you can find a use for it.
 - [Typst](https://typst.app) Working on switching from LateX to Typst. Using command line version together with VScode
+
 #### Online Software/Services
 
 This is what we also call our **stack** at work.
@@ -112,4 +113,8 @@ This is what we also call our **stack** at work.
   - Arr Stack
   - Handbrake
 
+### Photography Related Equipment
 
+- Camera: Canon EOS 100D
+  - Canon 1.8/f 50mm (nifty fifty)
+  - Canon 18-75mm
