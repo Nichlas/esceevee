@@ -31,7 +31,7 @@ I am working ~8 hours a day, so having a solid setup is important to me.
 
 - Smartphone
   - [iPhone 15 Pro Max](https://support.apple.com/en-us/111828): In the past I always requested an Android phone, usually the newest version of Samsung Galaxy. But in recent years it has been a lot harder to be an Android user at my place of work because IT support for it is way worse than iPhone support. So this time I went with an iPhone.
-  
+
 
 ### Software
 
@@ -47,8 +47,8 @@ I am working ~8 hours a day, so having a solid setup is important to me.
 - [PyCharm](https://www.jetbrains.com/pycharm/): for Python code. I've tried switching to vscode many times, but I always return to PyCharm for python coding.
 - [Github Desktop/Git](https://github.com/apps/desktop): I am trying to version control as much of my work as humanly possible.
 - [VSCode](https://code.visualstudio.com/): Mostly for writing [Typst](https://typst.app/) documents. Using the extensions `Tinymist Typst`, `Typst Companion` and `vscode-pdf`.
-- [Microsoft PowerToys](https://learn.microsoft.com/en-us/windows/powertoys) includes a number of great tweaks for Windows 11, but the two I use the most are: 
-  - *PowerToys Run*: A quicklauncher as seen in other great operating systems. Much quicker than the default Windows start menu 
+- [Microsoft PowerToys](https://learn.microsoft.com/en-us/windows/powertoys) includes a number of great tweaks for Windows 11, but the two I use the most are:
+  - *PowerToys Run*: A quicklauncher as seen in other great operating systems. Much quicker than the default Windows start menu
   - *PowerRename*: A Windows explorer extention for advanced bulk renaming.
 - [Winget](https://learn.microsoft.com/en-us/windows/package-manager/winget/): Command-line package manager that already comes with Windows 11. I use it mostly to upgrade the tools I've installed that are not maintained by Corporate IT.
 - [LibreOffice](https://www.libreoffice.org/): Open Source Office suite. LibreOffice Calc is **far superior when it comes to CSV files than Microsoft Excel**. This makes this an indispensable tool in my line of work.
@@ -115,6 +115,6 @@ This is what we also call our **stack** at work.
 
 ### Photography Related Equipment
 
-- Camera: Canon EOS 100D
+- Camera: Canon EOS 100D (soon "upgrading" to Canon 5D Mark II)
   - Canon 1.8/f 50mm (nifty fifty)
   - Canon 18-75mm
